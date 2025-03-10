@@ -89,7 +89,7 @@ export default function App() {
             className="border p-2 rounded w-full"
             value={filterCurrency}
             onChange={(e) => setFilterCurrency(e.target.value)}
-            placeholder="Enter currency code"
+            placeholder="Enter currency"
           />
         </div>
 
